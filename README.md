@@ -3,7 +3,7 @@
 # 依赖
 
 ```shell
-pip install PyMySQL
+pip install PyMySQL 
 ```
 # 用法
 
